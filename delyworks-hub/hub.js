@@ -9,13 +9,11 @@ app.use(express.json());
 app.use(require('./routes/record'));
 
 // Get driver connection
-const dbo = require('./db/conn');
+const dbo = require('./database/connection');
 
 app.listen(port, () => {
   // Perform a database connection when server starts
-  dbo.connectToServer(function (err) {
-    if (err) console.error(err);
-  });
+  dbo.connectToServer();
 
   console.log(`Server is running on port: ${port}`);
 });
