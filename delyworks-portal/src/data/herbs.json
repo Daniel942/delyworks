@@ -1,0 +1,674 @@
+[
+  {
+    "id": "peacebloom",
+    "blizzardID": 2770,
+    "name": "Peacebloom",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 10,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_flower_02"
+  },
+  {
+    "id": "silverleaf",
+    "blizzardID": 765,
+    "name": "Silverleaf",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 10,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_10"
+  },
+  {
+    "id": "earthroot",
+    "blizzardID": 2449,
+    "name": "Earthroot",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 20,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_07"
+  },
+  {
+    "id": "mageroyal",
+    "blizzardID": 785,
+    "name": "Mageroyal",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 20,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_jewelry_talisman_03"
+  },
+  {
+    "id": "swiftthistle",
+    "blizzardID": 2452,
+    "name": "Swiftthistle",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 15,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_04"
+  },
+  {
+    "id": "briarthorn",
+    "blizzardID": 2450,
+    "name": "Briarthorn",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_root_01"
+  },
+  {
+    "id": "stranglekelp",
+    "blizzardID": 3820,
+    "name": "Stranglekelp",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_11"
+  },
+  {
+    "id": "bruiseweed",
+    "blizzardID": 2453,
+    "name": "Bruiseweed",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_01"
+  },
+  {
+    "id": "wild_steelbloom",
+    "blizzardID": 3355,
+    "name": "Wild Steelbloom",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_flower_01"
+  },
+  {
+    "id": "grave_moss",
+    "blizzardID": 3369,
+    "name": "Grave Moss",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_dust_02"
+  },
+  {
+    "id": "Kingsblood",
+    "blizzardID": 3356,
+    "name": "Kingsblood",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 30,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_03"
+  },
+  {
+    "id": "liferoot",
+    "blizzardID": 3357,
+    "name": "Liferoot",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 75,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_root_02"
+  },
+  {
+    "id": "fadeleaf",
+    "blizzardID": 3818,
+    "name": "Fadeleaf",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_12"
+  },
+  {
+    "id": "goldthorn",
+    "blizzardID": 3821,
+    "name": "Goldthorn",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_15"
+  },
+  {
+    "id": "khadgars_whisker",
+    "blizzardID": 3358,
+    "name": "Khadgar's Whisker",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 75,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_08"
+  },
+  {
+    "id": "wintersbite",
+    "blizzardID": 3819,
+    "name": "Wintersbite",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_flower_03"
+  },
+  {
+    "id": "purple_lotus",
+    "blizzardID": 8831,
+    "name": "Purple Lotus",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 3,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_17"
+  },
+  {
+    "id": "wildvine",
+    "blizzardID": 8153,
+    "name": "Wildvine",
+    "quality": "uncommon",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 5,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_03"
+  },
+  {
+    "id": "arthas_tears",
+    "blizzardID": 8836,
+    "name": "Arthas' Tears",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 95,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_13"
+  },
+  {
+    "id": "arthas_tears",
+    "blizzardID": 8836,
+    "name": "Arthas' Tears",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 95,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_13"
+  },
+  {
+    "id": "sungrass",
+    "blizzardID": 8838,
+    "name": "Sungrass",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 60,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_18"
+  },
+  {
+    "id": "blindweed",
+    "blizzardID": 8839,
+    "name": "Blindweed",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 75,
+      "silver": 3,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_14"
+  },
+  {
+    "id": "ghost_mushroom",
+    "blizzardID": 8845,
+    "name": "Ghost Mushroom",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 75,
+      "silver": 3,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_mushroom_08"
+  },
+  {
+    "id": "gromsblood",
+    "blizzardID": 8846,
+    "name": "Gromsblood",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_16"
+  },
+  {
+    "id": "golden_sansam",
+    "blizzardID": 13464,
+    "name": "Golden Sansam",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_sansamroot"
+  },
+  {
+    "id": "dreamfoil",
+    "blizzardID": 13463,
+    "name": "Dreamfoil",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_dreamfoil"
+  },
+  {
+    "id": "mountain_silversage",
+    "blizzardID": 13465,
+    "name": "Mountain Silversage",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_mountainsilversage"
+  },
+  {
+    "id": "plaguebloom",
+    "blizzardID": 13466,
+    "name": "Plaguebloom",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_plaguebloom"
+  },
+  {
+    "id": "icecap",
+    "blizzardID": 13467,
+    "name": "Icecap",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_icecap"
+  },
+  {
+    "id": "black_lotus",
+    "blizzardID": 13468,
+    "name": "Black Lotus",
+    "quality": "uncommon",
+    "type": "herb",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 10,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_blacklotus"
+  },
+  {
+    "id": "felweed",
+    "blizzardID": 22785,
+    "name": "Felweed",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 5,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_felweed"
+  },
+  {
+    "id": "dreaming_glory",
+    "blizzardID": 22786,
+    "name": "Dreaming Glory",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 5,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_dreamingglory"
+  },
+  {
+    "id": "ragveil",
+    "blizzardID": 22787,
+    "name": "Ragveil",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 6,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_ragveil"
+  },
+  {
+    "id": "flame_cap",
+    "blizzardID": 22788,
+    "name": "Flame Cap",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 7,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_flamecap"
+  },
+  {
+    "id": "terocone",
+    "blizzardID": 22789,
+    "name": "Terocone",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 5,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_terrocone"
+  },
+  {
+    "id": "ancient_lichen",
+    "blizzardID": 22790,
+    "name": "Ancient Lichen",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 7,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_ancientlichen"
+  },
+  {
+    "id": "netherbloom",
+    "blizzardID": 22791,
+    "name": "Netherbloom",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 10,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_netherbloom"
+  },
+  {
+    "id": "nightmare_vine",
+    "blizzardID": 22792,
+    "name": "Nightmare Vine",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 12,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_nightmarevine"
+  },
+  {
+    "id": "mana_thistle",
+    "blizzardID": 22793,
+    "name": "Mana Thistle",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 15,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_manathistle"
+  },
+  {
+    "id": "fel_lotus",
+    "blizzardID": 22793,
+    "name": "Fel Lotus",
+    "quality": "uncommon",
+    "type": "herb",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 75,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_fellotus"
+  },
+  {
+    "id": "goldclover",
+    "blizzardID": 36901,
+    "name": "Goldclover",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 7,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_goldclover"
+  },
+  {
+    "id": "adders_tongue",
+    "blizzardID": 36903,
+    "name": "Adder's Tongue",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 12,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_evergreenmoss"
+  },
+  {
+    "id": "tiger_lily",
+    "blizzardID": 36904,
+    "name": "Tiger Lily",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 7,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_tigerlily"
+  },
+  {
+    "id": "talandras_rose",
+    "blizzardID": 36907,
+    "name": "Talandra's Rose",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 7,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_talandrasrose"
+  },
+  {
+    "id": "lichbloom",
+    "blizzardID": 36905,
+    "name": "Lichbloom",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 20,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_whispervine"
+  },
+  {
+    "id": "icethorn",
+    "blizzardID": 36906,
+    "name": "Icethorn",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 20,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_icethorn"
+  },
+  {
+    "id": "deadnettle",
+    "blizzardID": 37921,
+    "name": "Deadnettle",
+    "quality": "common",
+    "type": "herb",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 7,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_constrictorgrass"
+  },
+  {
+    "id": "frost_lotus",
+    "blizzardID": 36908,
+    "name": "Frost Lotus",
+    "quality": "uncommon",
+    "type": "herb",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 1
+    },
+    "wowheadIcon": "inv_misc_herb_frostlotus"
+  }
+]

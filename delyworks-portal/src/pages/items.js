@@ -261,16 +261,19 @@ const Items = () => {
                       </TableCell>
 
                       <TableCell component="th" id={labelID} scope="row" padding="none">
+                        <img
+                          src={process.env.PUBLIC_URL + `/assets/icons/${item.type}/${item.id}.jpg`}
+                        />
                         {item.name}
                       </TableCell>
 
-                      <TableCell align="right">{item.quality}</TableCell>
+                      <TableCell align="left">{item.quality}</TableCell>
 
-                      <TableCell align="right">{item.type}</TableCell>
+                      <TableCell align="left">{item.type}</TableCell>
 
-                      <TableCell align="right">{item.expansion}</TableCell>
+                      <TableCell align="left">{item.expansion}</TableCell>
 
-                      <TableCell align="right">
+                      <TableCell align="left">
                         {item.sellPrice.gold}g {item.sellPrice.silver}s {item.sellPrice.copper}c
                       </TableCell>
                     </TableRow>
