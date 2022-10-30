@@ -1,0 +1,310 @@
+[
+  {
+    "id": "light_hide",
+    "blizzardID": 783,
+    "name": "Light Hide",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_pelt_wolf_ruin_02"
+  },
+  {
+    "id": "light_leather",
+    "blizzardID": 2318,
+    "name": "Light Leather",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 15,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_03"
+  },
+  {
+    "id": "medium_leather",
+    "blizzardID": 2319,
+    "name": "Medium Leather",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_05"
+  },
+  {
+    "id": "ruined_leather_scraps",
+    "blizzardID": 2934,
+    "name": "Ruined Leather Scraps",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 7,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_pelt_bear_ruin_05"
+  },
+  {
+    "id": "medium_hide",
+    "blizzardID": 4232,
+    "name": "Medium Hide",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_pelt_boar_ruin_02"
+  },
+  {
+    "id": "heavy_leather",
+    "blizzardID": 4234,
+    "name": "Heavy Leather",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_07"
+  },
+  {
+    "id": "heavy_hide",
+    "blizzardID": 4235,
+    "name": "Heavy Hide",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_pelt_wolf_ruin_03"
+  },
+  {
+    "id": "thick_leather",
+    "blizzardID": 4304,
+    "name": "Thick Leather",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 3,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_08"
+  },
+  {
+    "id": "thick_hide",
+    "blizzardID": 8169,
+    "name": "Thick Hide",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 5,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_pelt_bear_ruin_01"
+  },
+  {
+    "id": "rugged_leather",
+    "blizzardID": 8170,
+    "name": "Rugged Leather",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 5,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_02"
+  },
+  {
+    "id": "rugged_hide",
+    "blizzardID": 8171,
+    "name": "Rugged Hide",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 5,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_pelt_bear_ruin_02"
+  },
+  {
+    "id": "knothide_leather_scraps",
+    "blizzardID": 25649,
+    "name": "Knothide Leather Scraps",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_09"
+  },
+  {
+    "id": "knothide_leather",
+    "blizzardID": 21887,
+    "name": "Knothide Leather",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 12,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_10"
+  },
+  {
+    "id": "fel_scales",
+    "blizzardID": 25700,
+    "name": "Fel Scales",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 12,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_monsterscales_04"
+  },
+  {
+    "id": "fel_hide",
+    "blizzardID": 25707,
+    "name": "Fel Hide",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 12,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_13"
+  },
+  {
+    "id": "thick_clefthoof_leather",
+    "blizzardID": 25708,
+    "name": "Thick Clefthoof Leather",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 7,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_14"
+  },
+  {
+    "id": "borean_leather_scraps",
+    "blizzardID": 33567,
+    "name": "Borean Leather Scraps",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_16"
+  },
+  {
+    "id": "borean_leather",
+    "blizzardID": 33568,
+    "name": "Borean Leather",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 22,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_leatherscrap_15"
+  },
+  {
+    "id": "icy_dragonscale",
+    "blizzardID": 38557,
+    "name": "Icy Dragonscale",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 1
+    },
+    "wowheadIcon": "inv_misc_monsterscales_19"
+  },
+  {
+    "id": "nerubian_chitin",
+    "blizzardID": 38558,
+    "name": "Nerubian Chitin",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 11,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_nerubianchitin_01"
+  },
+  {
+    "id": "jormungar_scale",
+    "blizzardID": 38561,
+    "name": "Jormungar Scale",
+    "quality": "common",
+    "type": "leather",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 1
+    },
+    "wowheadIcon": "inv_misc_monsterscales_18"
+  },
+  {
+    "id": "arctic_fur",
+    "blizzardID": 44128,
+    "name": "Arctic Fur",
+    "quality": "rare",
+    "type": "leather",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 3
+    },
+    "wowheadIcon": "inv_misc_pelt_14"
+  }
+]

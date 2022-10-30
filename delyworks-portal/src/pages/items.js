@@ -22,6 +22,7 @@ import FilterListIcon from '@mui/icons-material/FilterList'
 import { visuallyHidden } from '@mui/utils'
 
 import items from '../data/items'
+import { qualityColors } from '../colors'
 
 const headers = [
   {
@@ -260,7 +261,13 @@ const Items = () => {
                         />
                       </TableCell>
 
-                      <TableCell component="th" id={labelID} scope="row" padding="none">
+                      <TableCell
+                        component="th"
+                        id={labelID}
+                        scope="row"
+                        padding="none"
+                        sx={{ color: qualityColors[item.quality] }}
+                      >
                         <img
                           src={process.env.PUBLIC_URL + `/assets/icons/${item.type}/${item.id}.jpg`}
                         />

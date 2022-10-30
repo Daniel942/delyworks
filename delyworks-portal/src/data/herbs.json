@@ -266,20 +266,6 @@
     "wowheadIcon": "inv_misc_herb_13"
   },
   {
-    "id": "arthas_tears",
-    "blizzardID": 8836,
-    "name": "Arthas' Tears",
-    "quality": "common",
-    "type": "herb",
-    "expansion": "classic",
-    "sellPrice": {
-      "copper": 95,
-      "silver": 0,
-      "gold": 0
-    },
-    "wowheadIcon": "inv_misc_herb_13"
-  },
-  {
     "id": "sungrass",
     "blizzardID": 8838,
     "name": "Sungrass",
