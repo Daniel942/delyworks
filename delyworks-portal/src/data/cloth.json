@@ -1,0 +1,198 @@
+[
+  {
+    "id": "linen_cloth",
+    "blizzardID": 2589,
+    "name": "Linen Cloth",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 13,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_fabric_linen_01"
+  },
+  {
+    "id": "wool_cloth",
+    "blizzardID": 2592,
+    "name": "Wool Cloth",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 33,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_fabric_wool_01"
+  },
+  {
+    "id": "spiders_silk",
+    "blizzardID": 3182,
+    "name": "Spider's Silk",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 87,
+      "silver": 3,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_web"
+  },
+  {
+    "id": "silk_cloth",
+    "blizzardID": 4306,
+    "name": "Silk Cloth",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_fabric_silk_01"
+  },
+  {
+    "id": "thick_spiders_silk",
+    "blizzardID": 4337,
+    "name": "Thick Spider's Silk",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 7,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_web"
+  },
+  {
+    "id": "mageweave_cloth",
+    "blizzardID": 4338,
+    "name": "Mageweave Cloth",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_fabric_mageweave_01"
+  },
+  {
+    "id": "shadow_silk",
+    "blizzardID": 10285,
+    "name": "Shadow Silk",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 10,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_web"
+  },
+  {
+    "id": "runecloth",
+    "blizzardID": 14047,
+    "name": "Runecloth",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_fabric_purplefire_01"
+  },
+  {
+    "id": "ironweb_spider_silk",
+    "blizzardID": 14227,
+    "name": "Ironweb Spider Silk",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 25,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_web"
+  },
+  {
+    "id": "felcloth",
+    "blizzardID": 14256,
+    "name": "Felcloth",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 20,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_fabric_felrag"
+  },
+  {
+    "id": "netherweave_cloth",
+    "blizzardID": 21877,
+    "name": "Netherweave Cloth",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 8,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_fabric_netherweave"
+  },
+  {
+    "id": "netherweb_spider_silk",
+    "blizzardID": 21881,
+    "name": "Netherweb Spider Silk",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 50,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_web"
+  },
+  {
+    "id": "frostweave_cloth",
+    "blizzardID": 33470,
+    "name": "Frostweave Cloth",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 12,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_fabric_soulcloth"
+  },
+  {
+    "id": "iceweb_spider_silk",
+    "blizzardID": 42253,
+    "name": "Iceweb Spider Silk",
+    "quality": "common",
+    "type": "cloth",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 1
+    },
+    "wowheadIcon": "inv_misc_web_01"
+  }
+]
