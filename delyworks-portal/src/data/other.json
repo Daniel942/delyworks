@@ -1,0 +1,124 @@
+[
+  {
+    "id": "powerful_mojo",
+    "blizzardID": 12804,
+    "name": "Powerful Mojo",
+    "quality": "common",
+    "type": "other",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 20,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_astralrecalgroup"
+  },
+  {
+    "id": "righteous_orb",
+    "blizzardID": 12811,
+    "name": "Righteous Orb",
+    "quality": "uncommon",
+    "type": "other",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 2
+    },
+    "wowheadIcon": "inv_misc_gem_pearl_03"
+  },
+  {
+    "id": "heart_of_darkness",
+    "blizzardID": 32428,
+    "name": "Heart of Darkness",
+    "quality": "rare",
+    "type": "other",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 2
+    },
+    "wowheadIcon": "spell_shadow_demonictactics"
+  },
+  {
+    "id": "pygmy_oil",
+    "blizzardID": 40195,
+    "name": "Pygmy Oil",
+    "quality": "common",
+    "type": "other",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 7,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_potion_07"
+  },
+  {
+    "id": "northern_spices",
+    "blizzardID": 43007,
+    "name": "Northern Spices",
+    "quality": "common",
+    "type": "other",
+    "expansion": "wotlk",
+    "sellPrice": null,
+    "wowheadIcon": "inv_misc_ammo_gunpowder_05"
+  },
+  {
+    "id": "frozen_orb",
+    "blizzardID": 43102,
+    "name": "Frozen Orb",
+    "quality": "rare",
+    "type": "other",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 5
+    },
+    "wowheadIcon": "spell_frost_frozencore"
+  },
+  {
+    "id": "runed_orb",
+    "blizzardID": 45087,
+    "name": "Runed Orb",
+    "quality": "rare",
+    "type": "other",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 5
+    },
+    "wowheadIcon": "inv_misc_runedorb_01"
+  },
+  {
+    "id": "crusader_orb",
+    "blizzardID": 47556,
+    "name": "Crusader Orb",
+    "quality": "rare",
+    "type": "other",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 6
+    },
+    "wowheadIcon": "spell_holy_rune"
+  },
+  {
+    "id": "primordial_saronite",
+    "blizzardID": 49908,
+    "name": "Primordial Saronite",
+    "quality": "rare",
+    "type": "other",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 0,
+      "gold": 7
+    },
+    "wowheadIcon": "spell_fire_felflamebreath"
+  }
+]
