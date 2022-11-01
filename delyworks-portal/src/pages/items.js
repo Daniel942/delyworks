@@ -32,12 +32,6 @@ const headers = [
     label: 'Name',
   },
   {
-    id: 'quality',
-    numeric: false,
-    disablePadding: false,
-    label: 'Quality',
-  },
-  {
     id: 'type',
     numeric: false,
     disablePadding: false,
@@ -273,8 +267,6 @@ const Items = () => {
                         />
                         {item.name}
                       </TableCell>
-
-                      <TableCell align="left">{item.quality}</TableCell>
 
                       <TableCell align="left">{item.type}</TableCell>
 
