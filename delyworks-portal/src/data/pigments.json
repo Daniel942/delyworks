@@ -1,0 +1,212 @@
+[
+  {
+    "id": "alabaster_pigment",
+    "blizzardID": 39151,
+    "name": "Alabaster Pigment",
+    "quality": "common",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_white"
+  },
+  {
+    "id": "dusky_pigment",
+    "blizzardID": 39334,
+    "name": "Dusky Pigment",
+    "quality": "common",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_grey"
+  },
+  {
+    "id": "golden_pigment",
+    "blizzardID": 39338,
+    "name": "Golden Pigment",
+    "quality": "common",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_golden"
+  },
+  {
+    "id": "emerald_pigment",
+    "blizzardID": 39339,
+    "name": "Emerald Pigment",
+    "quality": "common",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_emerald"
+  },
+  {
+    "id": "violet_pigment",
+    "blizzardID": 39340,
+    "name": "Violet Pigment",
+    "quality": "common",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_violet"
+  },
+  {
+    "id": "silvery_pigment",
+    "blizzardID": 39341,
+    "name": "Silvery Pigment",
+    "quality": "common",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_silvery"
+  },
+  {
+    "id": "verdant_pigment",
+    "blizzardID": 43103,
+    "name": "Verdant Pigment",
+    "quality": "uncommon",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_verdant"
+  },
+  {
+    "id": "burnt_pigment",
+    "blizzardID": 43104,
+    "name": "Burnt Pigment",
+    "quality": "uncommon",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_burnt"
+  },
+  {
+    "id": "indigo_pigment",
+    "blizzardID": 43105,
+    "name": "Indigo Pigment",
+    "quality": "uncommon",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_indigo"
+  },
+  {
+    "id": "ruby_pigment",
+    "blizzardID": 43106,
+    "name": "Ruby Pigment",
+    "quality": "uncommon",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_ruby"
+  },
+  {
+    "id": "sapphire_pigment",
+    "blizzardID": 43107,
+    "name": "Sapphire Pigment",
+    "quality": "uncommon",
+    "type": "pigment",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_sapphire"
+  },
+  {
+    "id": "nether_pigment",
+    "blizzardID": 39342,
+    "name": "Nether Pigment",
+    "quality": "common",
+    "type": "pigment",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_nether"
+  },
+  {
+    "id": "ebon_pigment",
+    "blizzardID": 43108,
+    "name": "Ebon Pigment",
+    "quality": "uncommon",
+    "type": "pigment",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_ebon"
+  },
+  {
+    "id": "azure_pigment",
+    "blizzardID": 39343,
+    "name": "Azure Pigment",
+    "quality": "common",
+    "type": "pigment",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_azure"
+  },
+  {
+    "id": "icy_pigment",
+    "blizzardID": 43109,
+    "name": "Icy Pigment",
+    "quality": "uncommon",
+    "type": "pigment",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_inscription_pigment_icy"
+  }
+]
