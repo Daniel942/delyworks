@@ -1,0 +1,1486 @@
+[
+  {
+    "id": "wild_turkey",
+    "blizzardID": 44834,
+    "name": "Wild Turkey",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 15,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_15"
+  },
+  {
+    "id": "chunk_of_boar_meat",
+    "blizzardID": 769,
+    "name": "Chunk of Boar Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 3,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_14"
+  },
+  {
+    "id": "lynx_meat",
+    "blizzardID": 27668,
+    "name": "Lynx Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 5,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_71"
+  },
+  {
+    "id": "bat_flesh",
+    "blizzardID": 27669,
+    "name": "Bat Flesh",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 5,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_70"
+  },
+  {
+    "id": "stringy_wolf_meat",
+    "blizzardID": 2672,
+    "name": "Stringy Wolf Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 4,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_14"
+  },
+  {
+    "id": "raw_brilliant_smallfish",
+    "blizzardID": 6291,
+    "name": "Raw Brilliant Smallfish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 1,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_08"
+  },
+  {
+    "id": "raw_slitherskin_mackerel",
+    "blizzardID": 6303,
+    "name": "Raw Slitherskin Mackerel",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 1,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_24"
+  },
+  {
+    "id": "small_egg",
+    "blizzardID": 6889,
+    "name": "Small Egg",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 4,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_egg_01"
+  },
+  {
+    "id": "kodo_meat",
+    "blizzardID": 5467,
+    "name": "Kodo Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 7,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_14"
+  },
+  {
+    "id": "strider_meat",
+    "blizzardID": 5469,
+    "name": "Strider Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 9,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_16"
+  },
+  {
+    "id": "coyote_meat",
+    "blizzardID": 2673,
+    "name": "Coyote Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 10,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_69"
+  },
+  {
+    "id": "bear_meat",
+    "blizzardID": 3173,
+    "name": "Bear Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 15,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_71"
+  },
+  {
+    "id": "crawler_meat",
+    "blizzardID": 2674,
+    "name": "Crawler Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 12,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_51"
+  },
+  {
+    "id": "crocolisk_meat",
+    "blizzardID": 2924,
+    "name": "Crocolisk Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 16,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_14"
+  },
+  {
+    "id": "boar_ribs",
+    "blizzardID": 2677,
+    "name": "Boar Ribs",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 15,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_16"
+  },
+  {
+    "id": "clam_meat",
+    "blizzardID": 5503,
+    "name": "Clam Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 16,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_51"
+  },
+  {
+    "id": "tough_condor_meat",
+    "blizzardID": 1080,
+    "name": "Tough Condor Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 78,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_72"
+  },
+  {
+    "id": "soft_frenzy_flesh",
+    "blizzardID": 5468,
+    "name": "Soft Frenzy Flesh",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 12,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_04"
+  },
+  {
+    "id": "crunchy_spider_leg",
+    "blizzardID": 22644,
+    "name": "Crunchy Spider Leg",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 12,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_ahnqirajtrinket_02"
+  },
+  {
+    "id": "raw_longjaw_mud_snapper",
+    "blizzardID": 6289,
+    "name": "Raw Longjaw Mud Snapper",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 1,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_32"
+  },
+  {
+    "id": "raw_loch_frenzy",
+    "blizzardID": 6317,
+    "name": "Raw Loch Frenzy",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 2,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_03"
+  },
+  {
+    "id": "raw_rainbow_fin_albacore",
+    "blizzardID": 6361,
+    "name": "Raw Rainbow Fin Albacore",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 2,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_25"
+  },
+  {
+    "id": "lean_wolf_flank",
+    "blizzardID": 1015,
+    "name": "Lean Wolf Flank",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 24,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_14"
+  },
+  {
+    "id": "raw_sagefish",
+    "blizzardID": 21071,
+    "name": "Raw Sagefish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_20"
+  },
+  {
+    "id": "big_bear_meat",
+    "blizzardID": 3730,
+    "name": "Big Bear Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 45,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_14"
+  },
+  {
+    "id": "raptor_egg",
+    "blizzardID": 3685,
+    "name": "Raptor Egg",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 71,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_egg_03"
+  },
+  {
+    "id": "tender_crocolisk_meat",
+    "blizzardID": 3667,
+    "name": "Tender Crocolisk Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_14"
+  },
+  {
+    "id": "stag_meat",
+    "blizzardID": 5471,
+    "name": "Stag Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 30,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_pelt_wolf_ruin_03"
+  },
+  {
+    "id": "tangy_clam_meat",
+    "blizzardID": 5504,
+    "name": "Tangy Clam Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 22,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_51"
+  },
+  {
+    "id": "lion_meat",
+    "blizzardID": 3731,
+    "name": "Lion Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 55,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_71"
+  },
+  {
+    "id": "raw_bristle_whisker_catfish",
+    "blizzardID": 6308,
+    "name": "Raw Bristle Whisker Catfish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 2,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_30"
+  },
+  {
+    "id": "turtle_meat",
+    "blizzardID": 3712,
+    "name": "Turtle Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 87,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_70"
+  },
+  {
+    "id": "raptor_flesh",
+    "blizzardID": 12184,
+    "name": "Raptor Flesh",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 87,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_69"
+  },
+  {
+    "id": "tiger_meat",
+    "blizzardID": 12202,
+    "name": "Tiger Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 87,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_14"
+  },
+  {
+    "id": "red_wolf_meat",
+    "blizzardID": 12203,
+    "name": "Red Wolf Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 87,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_71"
+  },
+  {
+    "id": "giant_clam_meat",
+    "blizzardID": 4655,
+    "name": "Giant Clam Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 71,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_51"
+  },
+  {
+    "id": "heavy_kodo_meat",
+    "blizzardID": 12204,
+    "name": "Heavy Kodo Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 12,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_70"
+  },
+  {
+    "id": "raw_mithril_head_trout",
+    "blizzardID": 8365,
+    "name": "Raw Mithril Head Trout",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 4,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_02"
+  },
+  {
+    "id": "raw_rockscale_cod",
+    "blizzardID": 6362,
+    "name": "Raw Rockscale Cod",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 4,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_04"
+  },
+  {
+    "id": "raw_greater_sagefish",
+    "blizzardID": 21153,
+    "name": "Raw Greater Sagefish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 25,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_21"
+  },
+  {
+    "id": "white_spider_meat",
+    "blizzardID": 12205,
+    "name": "White Spider Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 12,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_51"
+  },
+  {
+    "id": "tender_crab_meat",
+    "blizzardID": 12206,
+    "name": "Tender Crab Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 12,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_51"
+  },
+  {
+    "id": "tender_wolf_meat",
+    "blizzardID": 12208,
+    "name": "Tender Wolf Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_14"
+  },
+  {
+    "id": "zesty_clam_meat",
+    "blizzardID": 7974,
+    "name": "Zesty Clam Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_51"
+  },
+  {
+    "id": "giant_egg",
+    "blizzardID": 12207,
+    "name": "Giant Egg",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_egg_03"
+  },
+  {
+    "id": "raw_summer_bass",
+    "blizzardID": 13756,
+    "name": "Raw Summer Bass",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 9,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_03"
+  },
+  {
+    "id": "raw_redgill",
+    "blizzardID": 13758,
+    "name": "Raw Redgill",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 4,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_06"
+  },
+  {
+    "id": "raw_nightfin_snapper",
+    "blizzardID": 13759,
+    "name": "Raw Nightfin Snapper",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 10,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_23"
+  },
+  {
+    "id": "raw_sunscale_salmon",
+    "blizzardID": 13760,
+    "name": "Raw Sunscale Salmon",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 10,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_19"
+  },
+  {
+    "id": "raw_spotted_yellowtail",
+    "blizzardID": 4603,
+    "name": "Raw Spotted Yellowtail",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 4,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_01"
+  },
+  {
+    "id": "bear_flank",
+    "blizzardID": 35562,
+    "name": "Bear Flank",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 37,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_13"
+  },
+  {
+    "id": "raw_whitescale_salmon",
+    "blizzardID": 13889,
+    "name": "Raw Whitescale Salmon",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 5,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_20"
+  },
+  {
+    "id": "plated_armorfish",
+    "blizzardID": 13890,
+    "name": "Plated Armorfish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 70,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_04"
+  },
+  {
+    "id": "sandworm_meat",
+    "blizzardID": 20424,
+    "name": "Sandworm Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 75,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_51"
+  },
+  {
+    "id": "raw_spinefin_halibut",
+    "blizzardID": 8959,
+    "name": "Raw Spinefin Halibut",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 60,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_22"
+  },
+  {
+    "id": "oily_blackmouth",
+    "blizzardID": 6358,
+    "name": "Oily Blackmouth",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 4,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_monsterhead_04"
+  },
+  {
+    "id": "firefin_snapper",
+    "blizzardID": 6359,
+    "name": "Firefin Snapper",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 5,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_monsterhead_01"
+  },
+  {
+    "id": "stonescale_eel",
+    "blizzardID": 13422,
+    "name": "Stonescale Eel",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 10,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_11"
+  },
+  {
+    "id": "lightning_eel",
+    "blizzardID": 13757,
+    "name": "Lightning Eel",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 10,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_12"
+  },
+  {
+    "id": "buzzard_meat",
+    "blizzardID": 27671,
+    "name": "Buzzard Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_82"
+  },
+  {
+    "id": "ravager_flesh",
+    "blizzardID": 27674,
+    "name": "Ravager Flesh",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_72"
+  },
+  {
+    "id": "chunk_o_basilisk",
+    "blizzardID": 27677,
+    "name": "Chunk o' Basilisk",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_81"
+  },
+  {
+    "id": "barbed_gill_trout",
+    "blizzardID": 27422,
+    "name": "Barbed Gill Trout",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_37"
+  },
+  {
+    "id": "clefthoof_meat",
+    "blizzardID": 27678,
+    "name": "Clefthoof Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_80"
+  },
+  {
+    "id": "spotted_feltail",
+    "blizzardID": 27425,
+    "name": "Spotted Feltail",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_39"
+  },
+  {
+    "id": "warped_flesh",
+    "blizzardID": 27681,
+    "name": "Warped Flesh",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_83_talbuksteak"
+  },
+  {
+    "id": "talbuk_venison",
+    "blizzardID": 27682,
+    "name": "Talbuk Venison",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_71"
+  },
+  {
+    "id": "zangarian_sporefish",
+    "blizzardID": 27429,
+    "name": "Zangarian Sporefish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_34"
+  },
+  {
+    "id": "figlusters_mudfish",
+    "blizzardID": 27435,
+    "name": "Figluster's Mudfish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_41"
+  },
+  {
+    "id": "icefin_bluefish",
+    "blizzardID": 27437,
+    "name": "Icefin Bluefish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_23"
+  },
+  {
+    "id": "golden_darter",
+    "blizzardID": 27438,
+    "name": "Golden Darter",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_36"
+  },
+  {
+    "id": "huge_spotted_feltail",
+    "blizzardID": 27515,
+    "name": "Huge Spotted Feltail",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 5,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_39"
+  },
+  {
+    "id": "raptor_ribs",
+    "blizzardID": 31670,
+    "name": "Raptor Ribs",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_16"
+  },
+  {
+    "id": "serpent_flesh",
+    "blizzardID": 31671,
+    "name": "Serpent Flesh",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_98_talbuk"
+  },
+  {
+    "id": "bloodfin_catfish",
+    "blizzardID": 33823,
+    "name": "Bloodfin Catfish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_29"
+  },
+  {
+    "id": "crescent_tail_skullfish",
+    "blizzardID": 33824,
+    "name": "Crescent-Tail Skullfish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_40"
+  },
+  {
+    "id": "jaggal_clam_meat",
+    "blizzardID": 24477,
+    "name": "Jaggal Clam Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_51"
+  },
+  {
+    "id": "shoveltusk_flank",
+    "blizzardID": 43009,
+    "name": "Shoveltusk Flank",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_135_meat"
+  },
+  {
+    "id": "worm_meat",
+    "blizzardID": 43010,
+    "name": "Worm Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_137_meat"
+  },
+  {
+    "id": "worg_haunch",
+    "blizzardID": 43011,
+    "name": "Worg Haunch",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_72"
+  },
+  {
+    "id": "rhino_meat",
+    "blizzardID": 43012,
+    "name": "Rhino Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_119_rhinomeat"
+  },
+  {
+    "id": "chilled_meat",
+    "blizzardID": 43013,
+    "name": "Chilled Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_120_sharkmeat"
+  },
+  {
+    "id": "deep_sea_monsterbelly",
+    "blizzardID": 41800,
+    "name": "Deep Sea Monsterbelly",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_60"
+  },
+  {
+    "id": "moonglow_cuttlefish",
+    "blizzardID": 41801,
+    "name": "Moonglow Cuttlefish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_70"
+  },
+  {
+    "id": "imperial_manta_ray",
+    "blizzardID": 41802,
+    "name": "Imperial Manta Ray",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_59f"
+  },
+  {
+    "id": "rockfin_grouper",
+    "blizzardID": 41803,
+    "name": "Rockfin Grouper",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_46"
+  },
+  {
+    "id": "borean_man_o_war",
+    "blizzardID": 41805,
+    "name": "Borean Man O' War",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_49"
+  },
+  {
+    "id": "musselback_sculpin",
+    "blizzardID": 41806,
+    "name": "Musselback Sculpin",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_62"
+  },
+  {
+    "id": "dragonfin_angelfish",
+    "blizzardID": 41807,
+    "name": "Dragonfin Angelfish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_54"
+  },
+  {
+    "id": "bonescale_snapper",
+    "blizzardID": 41808,
+    "name": "Bonescale Snapper",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_48"
+  },
+  {
+    "id": "glacial_salmon",
+    "blizzardID": 41809,
+    "name": "Glacial Salmon",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_51"
+  },
+  {
+    "id": "fangtooth_herring",
+    "blizzardID": 41810,
+    "name": "Fangtooth Herring",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_67"
+  },
+  {
+    "id": "barrelhead_goby",
+    "blizzardID": 41812,
+    "name": "Barrelhead Goby",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_57"
+  },
+  {
+    "id": "nettlefish",
+    "blizzardID": 41813,
+    "name": "Nettlefish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_72"
+  },
+  {
+    "id": "pygmy_suckerfish",
+    "blizzardID": 40199,
+    "name": "Pygmy Suckerfish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_55"
+  },
+  {
+    "id": "glassfin_minnow",
+    "blizzardID": 41814,
+    "name": "Glassfin Minnow",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 8,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_69"
+  },
+  {
+    "id": "chunk_o_mammoth",
+    "blizzardID": 34736,
+    "name": "Chunk o' Mammoth",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 2,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_107_venison"
+  },
+  {
+    "id": "giant_sunfish",
+    "blizzardID": 35285,
+    "name": "Giant Sunfish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_03"
+  },
+  {
+    "id": "northern_egg",
+    "blizzardID": 43501,
+    "name": "Northern Egg",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 15,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_egg_01"
+  },
+  {
+    "id": "fountain_goldfish",
+    "blizzardID": 43646,
+    "name": "Fountain Goldfish",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 62,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_58"
+  },
+  {
+    "id": "succulent_clam_meat",
+    "blizzardID": 36782,
+    "name": "Succulent Clam Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 50,
+      "silver": 1,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_126_clammeat"
+  },
+  {
+    "id": "silvercoat_stag_meat",
+    "blizzardID": 35794,
+    "name": "Silvercoat Stag Meat",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_food_70"
+  },
+  {
+    "id": "sewer_carp",
+    "blizzardID": 43571,
+    "name": "Sewer Carp",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 62,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_31"
+  },
+  {
+    "id": "magic_eater",
+    "blizzardID": 43572,
+    "name": "Magic Eater",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 62,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_73"
+  },
+  {
+    "id": "shimmering_minnow",
+    "blizzardID": 43647,
+    "name": "Shimmering Minnow",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 62,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_08"
+  },
+  {
+    "id": "slippery_eel",
+    "blizzardID": 43652,
+    "name": "Slippery Eel",
+    "quality": "common",
+    "type": "meat",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 62,
+      "silver": 0,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_fish_11"
+  }
+]

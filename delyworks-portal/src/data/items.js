@@ -6,6 +6,7 @@ import enchanting from '../data/enchanting.json'
 import elementals from '../data/elementals.json'
 import other from '../data/other.json'
 import pigments from '../data/pigments.json'
+import meats from '../data/meats.json'
 
 const items = [
   ...ores,
@@ -16,6 +17,7 @@ const items = [
   ...elementals,
   ...other,
   ...pigments,
+  ...meats,
 ]
 
 export default items
