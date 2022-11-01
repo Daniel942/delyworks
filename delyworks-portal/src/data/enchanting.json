@@ -1,0 +1,366 @@
+[
+  {
+    "id": "lesser_magic_essence",
+    "blizzardID": 10938,
+    "name": "Lesser Magic Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essencemagicsmall"
+  },
+  {
+    "id": "greater_magic_essence",
+    "blizzardID": 10939,
+    "name": "Greater Magic Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essencemagiclarge"
+  },
+  {
+    "id": "strange_dust",
+    "blizzardID": 10940,
+    "name": "Strange Dust",
+    "quality": "common",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_duststrange"
+  },
+  {
+    "id": "small_glimmering_shard",
+    "blizzardID": 10978,
+    "name": "Small Glimmering Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardglimmeringsmall"
+  },
+  {
+    "id": "lesser_astral_essence",
+    "blizzardID": 10998,
+    "name": "Lesser Astral Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essenceastralsmall"
+  },
+  {
+    "id": "greater_astral_essence",
+    "blizzardID": 11082,
+    "name": "Greater Astral Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essenceastrallarge"
+  },
+  {
+    "id": "soul_dust",
+    "blizzardID": 11083,
+    "name": "Soul Dust",
+    "quality": "common",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_dustsoul"
+  },
+  {
+    "id": "large_glimmering_shard",
+    "blizzardID": 11084,
+    "name": "Large Glimmering Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardglimmeringlarge"
+  },
+  {
+    "id": "greater_mystic_essence",
+    "blizzardID": 11135,
+    "name": "Greater Mystic Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essencemysticallarge"
+  },
+  {
+    "id": "vision_dust",
+    "blizzardID": 11137,
+    "name": "Vision Dust",
+    "quality": "common",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_dustvision"
+  },
+  {
+    "id": "small_glowing_shard",
+    "blizzardID": 11138,
+    "name": "Small Glowing Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardglowingsmall"
+  },
+  {
+    "id": "large_glowing_shard",
+    "blizzardID": 11139,
+    "name": "Large Glowing Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardglowinglarge"
+  },
+  {
+    "id": "lesser_nether_essence",
+    "blizzardID": 11174,
+    "name": "Lesser Nether Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essencenethersmall"
+  },
+  {
+    "id": "greater_nether_essence",
+    "blizzardID": 11175,
+    "name": "Greater Nether Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essencenetherlarge"
+  },
+  {
+    "id": "dream_dust",
+    "blizzardID": 11176,
+    "name": "Dream Dust",
+    "quality": "common",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_dustdream"
+  },
+  {
+    "id": "small_radiant_shard",
+    "blizzardID": 11177,
+    "name": "Small Radiant Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardradientsmall"
+  },
+  {
+    "id": "large_radiant_shard",
+    "blizzardID": 11178,
+    "name": "Large Radiant Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardradientlarge"
+  },
+  {
+    "id": "small_brilliant_shard",
+    "blizzardID": 14343,
+    "name": "Small Brilliant Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardbrilliantsmall"
+  },
+  {
+    "id": "large_brilliant_shard",
+    "blizzardID": 14344,
+    "name": "Large Brilliant Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardbrilliantlarge"
+  },
+  {
+    "id": "lesser_eternal_essence",
+    "blizzardID": 16202,
+    "name": "Lesser Eternal Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essenceeternalsmall"
+  },
+  {
+    "id": "greater_eternal_essence",
+    "blizzardID": 16203,
+    "name": "Greater Eternal Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essenceeternallarge"
+  },
+  {
+    "id": "illusion_dust",
+    "blizzardID": 16204,
+    "name": "Illusion Dust",
+    "quality": "common",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_dustillusion"
+  },
+  {
+    "id": "nexus_crystal",
+    "blizzardID": 20725,
+    "name": "Nexus Crystal",
+    "quality": "epic",
+    "type": "enchanting",
+    "expansion": "classic",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardnexuslarge"
+  },
+  {
+    "id": "arcane_dust",
+    "blizzardID": 22445,
+    "name": "Arcane Dust",
+    "quality": "common",
+    "type": "enchanting",
+    "expansion": "tbc",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_dustarcane"
+  },
+  {
+    "id": "lesser_planar_essence",
+    "blizzardID": 22447,
+    "name": "Lesser Planar Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "tbc",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essencearcanesmall"
+  },
+  {
+    "id": "greater_planar_essence",
+    "blizzardID": 22446,
+    "name": "Greater Planar Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "tbc",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essencearcanelarge"
+  },
+  {
+    "id": "small_prismatic_shard",
+    "blizzardID": 22448,
+    "name": "Small Prismatic Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "tbc",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardprismaticsmall"
+  },
+  {
+    "id": "large_prismatic_shard",
+    "blizzardID": 22449,
+    "name": "Large Prismatic Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "tbc",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_shardprismaticlarge"
+  },
+  {
+    "id": "void_crystal",
+    "blizzardID": 22450,
+    "name": "Void Crystal",
+    "quality": "epic",
+    "type": "enchanting",
+    "expansion": "tbc",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_voidcrystal"
+  },
+  {
+    "id": "infinite_dust",
+    "blizzardID": 34054,
+    "name": "Infinite Dust",
+    "quality": "common",
+    "type": "enchanting",
+    "expansion": "wotlk",
+    "sellPrice": null,
+    "wowheadIcon": "inv_misc_dust_infinite"
+  },
+  {
+    "id": "lesser_cosmic_essence",
+    "blizzardID": 34056,
+    "name": "Lesser Cosmic Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "wotlk",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essencecosmiclesser"
+  },
+  {
+    "id": "greater_cosmic_essence",
+    "blizzardID": 34055,
+    "name": "Greater Cosmic Essence",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "wotlk",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_essencecosmicgreater"
+  },
+  {
+    "id": "small_dream_shard",
+    "blizzardID": 34053,
+    "name": "Small Dream Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "wotlk",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_dreamshard_01"
+  },
+  {
+    "id": "dream_shard",
+    "blizzardID": 34052,
+    "name": "Dream Shard",
+    "quality": "rare",
+    "type": "enchanting",
+    "expansion": "wotlk",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_dreamshard_02"
+  },
+  {
+    "id": "abyss_crystal",
+    "blizzardID": 34057,
+    "name": "Abyss Crystal",
+    "quality": "epic",
+    "type": "enchanting",
+    "expansion": "wotlk",
+    "sellPrice": null,
+    "wowheadIcon": "inv_enchant_abysscrystal"
+  },
+  {
+    "id": "titanium_powder",
+    "blizzardID": 46849,
+    "name": "Titanium Powder",
+    "quality": "uncommon",
+    "type": "enchanting",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 5,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_dust_03"
+  }
+]

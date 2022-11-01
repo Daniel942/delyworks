@@ -281,7 +281,9 @@ const Items = () => {
                       <TableCell align="left">{item.expansion}</TableCell>
 
                       <TableCell align="left">
-                        {item.sellPrice.gold}g {item.sellPrice.silver}s {item.sellPrice.copper}c
+                        {item.sellPrice
+                          ? `${item.sellPrice.gold}g ${item.sellPrice.silver}s ${item.sellPrice.copper}c`
+                          : 'N/A'}
                       </TableCell>
                     </TableRow>
                   )
