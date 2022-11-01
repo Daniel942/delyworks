@@ -1,0 +1,618 @@
+[
+  {
+    "id": "elemental_earth",
+    "blizzardID": 7067,
+    "name": "Elemental Earth",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_ore_iron_01"
+  },
+  {
+    "id": "elemental_fire",
+    "blizzardID": 7068,
+    "name": "Elemental Fire",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_fire_fire"
+  },
+  {
+    "id": "elemental_air",
+    "blizzardID": 7069,
+    "name": "Elemental Air",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_tranquility"
+  },
+  {
+    "id": "elemental_water",
+    "blizzardID": 7070,
+    "name": "Elemental Water",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_potion_03"
+  },
+  {
+    "id": "core_of_earth",
+    "blizzardID": 7070,
+    "name": "Core of Earth",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_stone_05"
+  },
+  {
+    "id": "heart_of_fire",
+    "blizzardID": 7077,
+    "name": "Heart of Fire",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_fire_lavaspawn"
+  },
+  {
+    "id": "globe_of_water",
+    "blizzardID": 7079,
+    "name": "Globe of Water",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_orb_01"
+  },
+  {
+    "id": "breath_of_wind",
+    "blizzardID": 7081,
+    "name": "Breath of Wind",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_cyclone"
+  },
+  {
+    "id": "ichor_of_undeath",
+    "blizzardID": 7972,
+    "name": "Ichor of Undeath",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_slime_01"
+  },
+  {
+    "id": "heart_of_the_wild",
+    "blizzardID": 10286,
+    "name": "Heart of the Wild",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_misc_herb_08"
+  },
+  {
+    "id": "essence_of_earth",
+    "blizzardID": 7076,
+    "name": "Essence of Earth",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_strengthofearthtotem02"
+  },
+  {
+    "id": "essence_of_fire",
+    "blizzardID": 7078,
+    "name": "Essence of Fire",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_fire_volcano"
+  },
+  {
+    "id": "essence_of_water",
+    "blizzardID": 7080,
+    "name": "Essence of Water",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_acid_01"
+  },
+  {
+    "id": "essence_of_air",
+    "blizzardID": 7082,
+    "name": "Essence of Air",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_earthbind"
+  },
+  {
+    "id": "living_essence",
+    "blizzardID": 12803,
+    "name": "Living Essence",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 5,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_nature_abolishmagic"
+  },
+  {
+    "id": "essence_of_undeath",
+    "blizzardID": 12808,
+    "name": "Essence of Undeath",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "classic",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 10,
+      "gold": 0
+    },
+    "wowheadIcon": "spell_shadow_shadetruesight"
+  },
+  {
+    "id": "mote_of_air",
+    "blizzardID": 22572,
+    "name": "Mote of Air",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_mote_air01"
+  },
+  {
+    "id": "mote_of_earth",
+    "blizzardID": 22573,
+    "name": "Mote of Earth",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_mote_earth01"
+  },
+  {
+    "id": "mote_of_fire",
+    "blizzardID": 22574,
+    "name": "Mote of Fire",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_mote_fire01"
+  },
+  {
+    "id": "mote_of_life",
+    "blizzardID": 22575,
+    "name": "Mote of Life",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_mote_life01"
+  },
+  {
+    "id": "mote_of_mana",
+    "blizzardID": 22576,
+    "name": "Mote of Mana",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_mote_mana"
+  },
+  {
+    "id": "mote_of_shadow",
+    "blizzardID": 22577,
+    "name": "Mote of Shadow",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_mote_shadow01"
+  },
+  {
+    "id": "mote_of_water",
+    "blizzardID": 22578,
+    "name": "Mote of Water",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 4,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_mote_water01"
+  },
+  {
+    "id": "primal_air",
+    "blizzardID": 22451,
+    "name": "Primal Air",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 40,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_primal_air"
+  },
+  {
+    "id": "primal_earth",
+    "blizzardID": 22452,
+    "name": "Primal Earth",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 40,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_primal_earth"
+  },
+  {
+    "id": "primal_fire",
+    "blizzardID": 21884,
+    "name": "Primal Fire",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 40,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_primal_fire"
+  },
+  {
+    "id": "primal_life",
+    "blizzardID": 21886,
+    "name": "Primal Life",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 40,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_primal_life"
+  },
+  {
+    "id": "primal_mana",
+    "blizzardID": 22457,
+    "name": "Primal Mana",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 40,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_primal_mana"
+  },
+  {
+    "id": "primal_shadow",
+    "blizzardID": 22456,
+    "name": "Primal Shadow",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 40,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_primal_shadow"
+  },
+  {
+    "id": "primal_water",
+    "blizzardID": 21885,
+    "name": "Primal Water",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 40,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_primal_water"
+  },
+  {
+    "id": "primal_might",
+    "blizzardID": 23571,
+    "name": "Primal Might",
+    "quality": "rare",
+    "type": "elemental",
+    "expansion": "tbc",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 60,
+      "gold": 1
+    },
+    "wowheadIcon": "spell_nature_lightningoverload"
+  },
+  {
+    "id": "crystallized_air",
+    "blizzardID": 37700,
+    "name": "Crystallized Air",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 6,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_crystal_air"
+  },
+  {
+    "id": "crystallized_earth",
+    "blizzardID": 37701,
+    "name": "Crystallized Earth",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 6,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_crystal_earth"
+  },
+  {
+    "id": "crystallized_fire",
+    "blizzardID": 37702,
+    "name": "Crystallized Fire",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 6,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_crystal_fire"
+  },
+  {
+    "id": "crystallized_shadow",
+    "blizzardID": 37703,
+    "name": "Crystallized Shadow",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 6,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_crystal_shadow"
+  },
+  {
+    "id": "crystallized_life",
+    "blizzardID": 37704,
+    "name": "Crystallized Life",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 6,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_crystal_life"
+  },
+  {
+    "id": "crystallized_water",
+    "blizzardID": 37705,
+    "name": "Crystallized Water",
+    "quality": "common",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 6,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_crystal_water"
+  },
+  {
+    "id": "eternal_air",
+    "blizzardID": 35623,
+    "name": "Eternal Air",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 60,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_eternal_air"
+  },
+  {
+    "id": "eternal_earth",
+    "blizzardID": 35624,
+    "name": "Eternal Earth",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 60,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_eternal_earth"
+  },
+  {
+    "id": "eternal_fire",
+    "blizzardID": 36860,
+    "name": "Eternal Fire",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 60,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_eternal_fire"
+  },
+  {
+    "id": "eternal_shadow",
+    "blizzardID": 35627,
+    "name": "Eternal Shadow",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 60,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_eternal_shadow"
+  },
+  {
+    "id": "eternal_life",
+    "blizzardID": 35625,
+    "name": "Eternal Life",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 60,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_eternal_life"
+  },
+  {
+    "id": "eternal_water",
+    "blizzardID": 35622,
+    "name": "Eternal Water",
+    "quality": "uncommon",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 60,
+      "gold": 0
+    },
+    "wowheadIcon": "inv_elemental_eternal_water"
+  },
+  {
+    "id": "eternal_might",
+    "blizzardID": 40248,
+    "name": "Eternal Might",
+    "quality": "rare",
+    "type": "elemental",
+    "expansion": "wotlk",
+    "sellPrice": {
+      "copper": 0,
+      "silver": 60,
+      "gold": 1
+    },
+    "wowheadIcon": "spell_shadow_manaburn"
+  }
+]
