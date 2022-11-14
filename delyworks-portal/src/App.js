@@ -7,6 +7,7 @@ import { Route, Routes } from 'react-router-dom'
 // import Navbar from './components/navbar'
 
 import Items from './pages/items'
+import Auctions from './pages/auctions'
 
 import './App.css'
 
@@ -16,6 +17,7 @@ const App = () => {
       {/* <Navbar /> */}
       <Routes>
         <Route path="/items" element={<Items />} />
+        <Route path="/auctions" element={<Auctions />} />
       </Routes>
     </div>
   )
